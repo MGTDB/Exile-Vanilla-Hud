@@ -1,0 +1,6 @@
+class RscTitles
+{
+	#include "RscInGameUI.hpp"
+	titles[] = {};
+    import RscUnitInfo from RscInGameUI;
+};

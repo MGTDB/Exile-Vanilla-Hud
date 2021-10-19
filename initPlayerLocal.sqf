@@ -1,0 +1,1 @@
+0 execVM "Custom\Hud\vanillaHud.sqf";
