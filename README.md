@@ -1,6 +1,6 @@
 ![Screenshot](Hud.jpg)
 
-This is a script to enable the Arma 3 vanilla vehicle HUD in Arma 3 Exile
+This is a script to enable the Arma 3 vanilla vehicle HUD in Arma 3 Exile without a client mod
 
 Note, this currently only works with very small interface size
 
