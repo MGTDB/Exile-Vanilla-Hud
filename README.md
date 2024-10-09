@@ -13,3 +13,4 @@ In your config.cpp, in the CfgExileCustomCode code block, add the exception for 
 Pack your mission file
 
 If you have the time and/or patience to make this work with other interface sizes, feel free to create a pull request
+Say thanks, buy me a beer or a pizza https://bit.ly/3gtPTkT
